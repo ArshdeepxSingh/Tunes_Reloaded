@@ -4,7 +4,7 @@ import 'package:tunes_reloaded/theme/app_colors.dart';
 
 class AppTheme {
 
-  static final lightTheme = ThemeData(
+  static final ThemeData lightTheme = ThemeData(
     brightness: Brightness.light,
     fontFamily: 'LeagueSpartan',
     primaryColor: AppColors.primary,
@@ -34,7 +34,7 @@ class AppTheme {
   );
 
 
-  static final darkTheme = ThemeData(
+  static final ThemeData darkTheme = ThemeData(
     brightness: Brightness.dark,
     fontFamily: 'LeagueSpartan',
     primaryColor: AppColors.primary,
