@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f51758bb-5896-4277-a2ed-f1c9652569e9)
+<img src="https://github.com/user-attachments/assets/f51758bb-5896-4277-a2ed-f1c9652569e9" alt="Portrait Screenshot" width="600" height="300"/>
 
 # 📱 Tunes 
 
