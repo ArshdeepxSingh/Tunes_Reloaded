@@ -15,5 +15,6 @@ A Minimalist music player which utilises Supabase for authentication and Provide
 
 
 
-![Tunes](https://github.com/user-attachments/assets/93c7e0b6-c188-42a2-8ce2-9dad1f3e6336)
+![image](https://github.com/user-attachments/assets/f51758bb-5896-4277-a2ed-f1c9652569e9)
+
 
