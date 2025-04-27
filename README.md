@@ -19,7 +19,7 @@ A Minimalist music player which utilises Supabase for authentication and Provide
 
 | Register User Screen | Music Playlist | Now Playing Screen |
 |:-----------:|:------------:|:---------------:|
-| <img src="https://github.com/user-attachments/assets/e284daf5-e700-4fa9-9d5e-5ada70a47f0d" alt="Portrait Screenshot" width="300" height="600"/> | <img src="https://github.com/user-attachments/assets/aaddddc8-adff-406f-b02d-c5abd7f21423" alt="Portrait Screenshot" width="300" height="600"/>) | <img src="https://github.com/user-attachments/assets/d9ae0525-033a-47d9-b413-b0ea7c83f14a" alt="Portrait Screenshot" width="300" height="600"/> |
+| <img src="https://github.com/user-attachments/assets/e284daf5-e700-4fa9-9d5e-5ada70a47f0d" alt="Portrait Screenshot" width="300" height="600"/> | <img src="https://github.com/user-attachments/assets/aaddddc8-adff-406f-b02d-c5abd7f21423" alt="Portrait Screenshot" width="300" height="600"/> | <img src="https://github.com/user-attachments/assets/d9ae0525-033a-47d9-b413-b0ea7c83f14a" alt="Portrait Screenshot" width="300" height="600"/> |
 
 | Register User Screen | Music Playlist |
 |:-----------:|:------------:|
