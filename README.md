@@ -12,12 +12,14 @@ A Minimalist music player which utilises Supabase for authentication and Provide
 
 ## Screen Shots
 
-|Intro Splash Screen |  Onboarding Screen| Login User Screen |
+| Intro Splash Screen | Onboarding Screen| Login User Screen |
 |:-----------:|:------------:|:---------------:|
 | <img src="https://github.com/user-attachments/assets/4cd6fa32-1c5e-40ec-8eee-912b5940a401" alt="Portrait Screenshot" width="300" height="600"/> | <img src="https://github.com/user-attachments/assets/ae1bc764-4618-42f5-9ed1-381c76b6a1f8" alt="Portrait Screenshot" width="300" height="600"/>) | <img src="https://github.com/user-attachments/assets/3448631e-683a-47b6-bca8-22a93a658d62" alt="Portrait Screenshot" width="300" height="600"/> |
 
-|Register User Screemn |  Onboarding Screen| Register User Screen |
+| Register User Screemn | Music Playlist | Now Playing Screen |
 |:-----------:|:------------:|:---------------:|
-| <img src="https://github.com/user-attachments/assets/e284daf5-e700-4fa9-9d5e-5ada70a47f0d" alt="Portrait Screenshot" width="300" height="600"/> | <img src="https://github.com/user-attachments/assets/ae1bc764-4618-42f5-9ed1-381c76b6a1f8" alt="Portrait Screenshot" width="300" height="600"/>) | <img src="https://github.com/user-attachments/assets/3448631e-683a-47b6-bca8-22a93a658d62" alt="Portrait Screenshot" width="300" height="600"/> |
+| <img src="https://github.com/user-attachments/assets/e284daf5-e700-4fa9-9d5e-5ada70a47f0d" alt="Portrait Screenshot" width="300" height="600"/> | <img src="https://github.com/user-attachments/assets/aaddddc8-adff-406f-b02d-c5abd7f21423" alt="Portrait Screenshot" width="300" height="600"/>) | <img src="https://github.com/user-attachments/assets/d9ae0525-033a-47d9-b413-b0ea7c83f14a" alt="Portrait Screenshot" width="300" height="600"/> |
 
-![WhatsApp Image 2025-04-26 at 16 59 29_51d9bd52-portrait](https://github.com/user-attachments/assets/e284daf5-e700-4fa9-9d5e-5ada70a47f0d)
+
+
+
