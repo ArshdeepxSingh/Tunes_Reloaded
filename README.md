@@ -12,7 +12,7 @@ A Minimalist music player which utilises Supabase for authentication and Provide
 
 ## Screen Shots
 
-![WhatsApp Image 2025-04-26 at 16 59 28_d80c8792-portrait](https://github.com/user-attachments/assets/4cd6fa32-1c5e-40ec-8eee-912b5940a401)
+<img src="https://github.com/user-attachments/assets/4cd6fa32-1c5e-40ec-8eee-912b5940a401" alt="Portrait Screenshot" width="300" height="600"/>
 
 
 
