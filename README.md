@@ -16,6 +16,6 @@ A Minimalist music player which utilises Supabase for authentication and Provide
 
 
 
-
+<img src="https://github.com/user-attachments/assets/3448631e-683a-47b6-bca8-22a93a658d62" alt="Portrait Screenshot" width="300" height="600"/>
 
 
